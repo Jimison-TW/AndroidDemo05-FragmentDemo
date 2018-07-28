@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEEEE">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Fragment A"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/pincode"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="PIN CODE"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFF0000"
+        android:textSize="60sp"/>
+
+</LinearLayout>
