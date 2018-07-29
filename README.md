@@ -4,9 +4,9 @@
 
 ## 開發版本
 Andorid 3.1.2 </br>
-SdkVersion 27 </br>
+SdkVersion 25 </br>
 minSdkVersion 15 </br>
-targetSdkVersion 27 </br>
+targetSdkVersion 25 </br>
 
 ## 學習重點
 1. 在一個Activity中透過fragment將兩個子畫面加進來
